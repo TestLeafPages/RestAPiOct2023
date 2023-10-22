@@ -1,0 +1,29 @@
+Agenda for the day:
+
+1)Assertions
+
+*ClassRoom Session*
+
+1) Create Change Request
+a) Status Code
+b) Description --equals
+
+2) Get All incident(sys_id,description)
+a) Status Code
+b) body containsString --short description
+
+3) Delete Incident
+a) Status code
+b) Print the status line and validate Status line contains http or not
+
+2)Chaining of request
+
+*Classroom Session*
+
+1)Chaining process for create,update and delete for change Request
+
+
+
+
+
+3)Preepmitve and Basic Authentication
