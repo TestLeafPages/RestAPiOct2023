@@ -1,0 +1,181 @@
+Agenda For the Day:
+===================
+
+1) Cucumber with RestAssured
+
+BDD--Behvaiour Driven Development
+
+Agile -Testers,Developers and BA's
+
+BDD- Colloborative Testers,Developers and BA's
+
+Feature File-- User requirement/user stories
+
+Plain English --Gherkin Language
+
+Cucumber for implementing BDD
+
+Java-Cucumber
+C#-SpecFlow
+python-behave
+
+Keywords:
+========
+
+1) Registration
+2) admission
+3) check-in
+
+Feature- User stories
+Scenarios- Testcases
+
+1)Attendance logging
+2) Employee details update
+
+Service now:
+============
+1)Incidents
+2) Change request
+
+1)Create
+2)Update
+3)Delete
+4)Get 
+
+a) Feature
+b) Scenario
+c) Given --Precondition
+
+Given BaseURI
+Given Authentication
+
+Given BaseURI
+And Authentication
+
+d)When --Test Condition
+e)Then ---Post Condition --Assertions
+f)And -- Combine 2 Steps
+g)But--Negative scenario
+
+h)Scenario Outline ---Execute testcases with Multiple Testdata
+j)Examples --To pass the testdata
+i)Background --Common steps for the scenarios is moved to background --Scope of background is within the feature file
+
+--hooks
+
+Implementation steps:
+=====================
+
+1) Create a maven project and paste the dependencies
+
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-java</artifactId>
+    <version>7.14.0</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-testng</artifactId>
+    <version>7.14.0</version>
+</dependency>
+
+2) Create the Following Packages
+
+--features
+--steps
+--runner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kumar.sanmugaraj@testleaf.com
+vinothSV@09
+
+Instance name: dev90367
+Instance URL: https://dev90367.service-now.com/
+Username: admin
+Password: NQvluT54==pQ
